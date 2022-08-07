@@ -26,3 +26,5 @@ cd react-vite
 npm i
 npm run dev
 ```
+
+Link to Million [https://millionjs.org/](https://millionjs.org/)
