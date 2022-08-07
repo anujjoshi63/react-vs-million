@@ -28,3 +28,7 @@ npm run dev
 ```
 
 Link to Million [https://millionjs.org/](https://millionjs.org/)
+
+---
+
+Thanks to [Haridarshan](https://github.com/hdck007) for helping me with this.
